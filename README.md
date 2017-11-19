@@ -35,8 +35,8 @@ The requested plots are:
 
 An additional information for our own understanding:
 ![ST-501---R-Project](R02.01.png)
-![ST-501---R-Project](Parameters075.png)
-![ST-501---R-Project](Parameters175.png))
+![ST-501---R-Project](Parameters075.PNG)
+![ST-501---R-Project](Parameters175.PNG)
 
 
 
