@@ -31,10 +31,10 @@ An additional information for our own understanding:
 The R code is located : ![ST-501---R-Project](GROUP%2004%20-%20ST%20501%20-%20R%20Project%20-%20Item%202%20v1.0.R)
 
 The requested plots are:
-![ST-501---R-Project](Rplot02.pdf)
+![ST-501---R-Project](Rplot02.02.png)
 
 An additional information for our own understanding:
-![ST-501---R-Project](Rplot01.pdf)
+![ST-501---R-Project](Rplot02.01.png)
 ![ST-501---R-Project](Parameters075.png)
 ![ST-501---R-Project](Parameters175.png))
 
