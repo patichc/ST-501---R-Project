@@ -17,18 +17,18 @@
 - We need to agree on the final versions to be organized and submitted to Dr. Post.
 
 ## Item 1
-The R code is located : ![ST-501---R-Project](GROUP 04 - ST 501 - R Project - Item 1.R)
+The R code is located : ![ST-501---R-Project](GROUP%2004%20-%20ST%20501%20-%20R%20Project%20-%20Item%201.R)
 
 The requested plots are:
-![ST-501---R-Project](Probabilities for lambdas.png)
-![ST-501---R-Project](PMF and PDF.png)
+![ST-501---R-Project](Probabilities%20for%20lambdas.png)
+![ST-501---R-Project](PMF%20and%20PDF.png)
 ![ST-501---R-Project](CDF.png)
 
 An additional information for our own understanding:
 ![ST-501---R-Project](Probabilities.png)
 
 ## Item 2
-The R code is located : ![ST-501---R-Project](GROUP 04 - ST 501 - R Project - Item 2 v1.0.R)
+The R code is located : ![ST-501---R-Project](GROUP%2004%20-%20ST%20501%20-%20R%20Project%20-%20Item%202%20v1.0.R)
 
 The requested plots are:
 ![ST-501---R-Project](Rplot02.pdf)
