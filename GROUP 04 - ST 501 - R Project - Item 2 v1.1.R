@@ -67,7 +67,7 @@ WeibullPlotAndNormal<-function (mySize, mySizeSample, myShape, myScale)
         main=paste("Histogram of Means for generated RV for a Weibull(",myShape,",",myScale,")\n",
                    mySize,"means calsulated for samples of size", mySizeSample))
   title(xlab=paste("Mean Weibull(",myShape,",",myScale,")"),line=2,cex=0.5,col.lab="Dark Red")
-  title(ylab="Frequency",line=2,cex=0.5)
+  title(ylab="Density",line=2,cex=0.5)
   # overlapping the normal approximation in blue using CLT
   curve(normAprx, type = "l",col="blue", lwd=2, add=TRUE)
   title(xlab="Normal Aproximation (using CLT)",line=3,cex=0.4,col.lab="Blue")
